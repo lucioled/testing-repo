@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+    color: #922;
+}
+
+.main p {
+    text-align: justify;
+    font-style: italic;
+    padding: 1rem;
+    font-size: 1.2rem;
+}
