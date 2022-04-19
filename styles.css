@@ -1,6 +1,18 @@
 .header {
     text-align: center;
     color: #922;
+    display: flex;
+    margin-bottom: 2rem;
+    justify-content: space-between;
+}
+
+.header button {
+    background-color: #922;
+    border: none;
+}
+
+.header button:hover {
+    box-shadow: 2px 2px 5px #000;
 }
 
 .main p {
