@@ -1,20 +1,19 @@
 body {
-    color: blue;
+    color: #a68;
+    min-height: 100vh;
     text-align: center;
     font-family: "Arial";
-}
-
-.navbar {
     display: flex;
+    flex-flow: column;
     justify-content: space-between;
-    padding: .5rem;
-    background-color: antiquewhite;
-    box-shadow: 1px 2px 5px black;
-    margin-bottom: 1rem;
 }
 
-.navbar ul li {
-    list-style: none;
-    display: inline-block;
-    padding: .5rem;
+footer {
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    color: #fff;
+    background-color: #333;
+    width: 100vw;
+    height: 15vh;
+    text-align: center;
 }
