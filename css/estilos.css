@@ -1,5 +1,6 @@
 body {
-    color: blue;
+    color: #a68;
+    min-height: 100vh;
     text-align: center;
     font-family: "Arial";
     display: flex;
