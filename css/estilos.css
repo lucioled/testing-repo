@@ -30,7 +30,6 @@ body {
     color: #a68;
     text-align: center;
     font-family: "Arial";
-    display: flex;
     flex-flow: column;
     justify-content: space-between;
 }
