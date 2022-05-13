@@ -6,11 +6,16 @@ body {
 
 .navbar {
     display: flex;
+    max-height: 10vh;
     justify-content: space-between;
     padding: .5rem;
     background-color: antiquewhite;
     box-shadow: 1px 2px 5px black;
     margin-bottom: 1rem;
+}
+
+.navbar img {
+    width: 5%;
 }
 
 .navbar ul li {
